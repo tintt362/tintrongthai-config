@@ -6,6 +6,6 @@ accounts:
   message: "Welcome to EZ Bank accounts related Prod APIs"
   contactDetails:
     name: "tintrongthai_pro "
-    email: "john@eazybank.com"
+    email: "{cipher}2f99e917a00a55e666be4021eecc1c36ce010a3a7d960d6e74a46428607b430468cd3c452f57bbeb1dc4942996809045"
   onCallSupport:
     - 0364329047
