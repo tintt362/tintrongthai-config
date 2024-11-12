@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EZ Bank Loans related Prod  1111 APIs"
+  message: "Welcome to EZ Bank Loans related Prod  2222 APIs"
   contactDetails:
     name: "tintrongthai_Prod"
     email: "john@eazybank.com"
