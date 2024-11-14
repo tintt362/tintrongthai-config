@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EZ Bank Cards related Docker APIs"
+  message: "Welcome to EZ Bank Cards related Docker 1 APIs"
   contactDetails:
     name: "tintrongthai_Pro"
     email: "john@eazybank.com"
