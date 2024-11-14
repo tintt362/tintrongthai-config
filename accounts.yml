@@ -4,7 +4,7 @@ build:
 
 
 accounts:
-  message: "Welcome to EZ Bank accounts related docker APIs"
+  message: "Welcome to EZ Bank accounts related docker1 APIs"
   contactDetails:
     name: "tintrongthai"
     email: "john@eazybank.com"
